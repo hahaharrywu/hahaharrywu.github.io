@@ -58,9 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-bandei-paper-has-been-accepted-to-uist-2025",
           title: 'The BandEI paper has been accepted to UIST 2025!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-boubou",
+          title: 'BouBou',
+          description: "A bouldering tracking app designed to help climbers log problems, monitor progress, and reflect on their climbing journey.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
@@ -78,16 +78,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
