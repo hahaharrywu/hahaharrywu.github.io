@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BouBou
+permalink: /projects/BouBou.html
 description: A bouldering tracking app designed to help climbers log problems, monitor progress, and reflect on their climbing journey.
 img: assets/img/projects/BouBou/icon.jpg
 importance: 1

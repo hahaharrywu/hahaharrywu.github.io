@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HaptiDrum
+permalink: /projects/HaptiDrum.html
 description: A wearable air-drumming system that brings realistic haptic feedback and motion tracking to virtual drumming.
 img: assets/img/projects/HaptiDrum/PCB.jpg
 importance: 1
