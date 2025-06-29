@@ -15,9 +15,6 @@ HaptiDrum is a revolutionary wearable air-drumming system that transforms the vi
 <video controls width="100%">
   <source src="/assets/video/HaptiDrum.mp4" type="video/mp4">
 </video>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <br>
 
 #### PCB Design
