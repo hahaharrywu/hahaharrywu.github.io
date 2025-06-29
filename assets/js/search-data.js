@@ -62,12 +62,12 @@ ninja.data = [{
           title: 'BouBou',
           description: "A bouldering tracking app designed to help climbers log problems, monitor progress, and reflect on their climbing journey.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/BouBou.html";
             },},{id: "projects-haptidrum",
           title: 'HaptiDrum',
           description: "A wearable air-drumming system that brings realistic haptic feedback and motion tracking to virtual drumming.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/HaptiDrum.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
